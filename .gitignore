@@ -1,0 +1,19 @@
+# Environnement virtuel — recréé sur chaque machine
+.venv/
+venv/
+env/
+
+# Fichiers compilés automatiquement par Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
