@@ -11,6 +11,12 @@ Install the package from its wheel:
 pip install ./dist/ft_package-0.0.1-py3-none-any.whl
 ```
 
+or
+
+```bash
+pip install ./dist/ft_package-0.0.1.tar.gz
+```
+
 How to prove the license "MIT":
 
 ```bash
